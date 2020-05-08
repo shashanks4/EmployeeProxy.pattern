@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\bin\Debug\netcoreapp3.1\employeeproxy.exe
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\bin\Debug\netcoreapp3.1\employeeproxy.deps.json
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\bin\Debug\netcoreapp3.1\employeeproxy.runtimeconfig.json
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\bin\Debug\netcoreapp3.1\employeeproxy.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\bin\Debug\netcoreapp3.1\employeeproxy.dll
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\bin\Debug\netcoreapp3.1\employeeproxy.pdb
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.dll
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.pdb
+C:\Users\ADMIN\Desktop\All_Solutions\employeeproxy\obj\Debug\netcoreapp3.1\employeeproxy.genruntimeconfig.cache
